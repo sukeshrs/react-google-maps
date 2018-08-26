@@ -10,7 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        System.out.println("test");
         return "bykeMapExample";
     }
 }
